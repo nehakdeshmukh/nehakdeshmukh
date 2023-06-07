@@ -1,5 +1,5 @@
 - Data Scientist & AI Specialist 
-- 
+
 - Experienced Data Scientist with a demonstrated history of working in the information technology and services industry.
 - Skilled in Python , R, Machine learning and Deep learning. Strong engineering professional with a Master of Technology - MTech focused in Signal Processing.
 <!---
